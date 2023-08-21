@@ -35,7 +35,6 @@ La función main( ) debe llamar a la función calcula_grado(valor) y debe desple
 
 La salida del programa debe de ser exactamente de la siguiente forma:
 ```
-Hello World!
 Ingresa Un valor entre 0.0 y 1.0: 0.98
 A                                                              
 Ingresa Un valor entre 0.0 y 1.0: -5.1
